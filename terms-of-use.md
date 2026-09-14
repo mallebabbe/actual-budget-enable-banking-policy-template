@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Terms of Use"
+permalink: /terms-of-use/
+---
+
 # Terms of Use
 
 **Last updated: September 2026**
